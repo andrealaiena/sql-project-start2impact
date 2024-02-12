@@ -1,0 +1,13 @@
+1) Commas (,) in the values
+In the .csv files we can find some entries (values) presenting commas (,).
+In the specific case of these datasets, the commas simply represent a division (for readability) of a whole number.
+The cleaning performed on the commas is simply removing them from the entry and leaving the whole number as is.
+
+2) Broken characters in country and cities names
+The broken characters have been fixed
+
+3) % symbol in percentage values
+The percentage (%) symbol has been removed
+
+4) $ symbol in monetary values
+the $ symbol has been removed
